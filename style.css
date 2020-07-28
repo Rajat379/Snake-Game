@@ -1,0 +1,21 @@
+ html, body {
+    height: 100%;
+    margin: 0;
+  }
+  h1{
+  	position: absolute;
+  	left : 560px;
+  	top:17px;
+  	color : white;
+  	font-size: 350%;
+  }
+  body {
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  canvas {
+    border: 1px solid black;
+    background: white;
+  }
